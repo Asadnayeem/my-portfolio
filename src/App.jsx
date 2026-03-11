@@ -510,8 +510,8 @@ export default function Portfolio() {
 
               <div className="fade-slide-up" style={{ display: "flex", gap: "24px", marginTop: "48px", animationDelay: "0.5s" }}>
                 {[
-                  { label: "Years Exp.", value: "2+" },
-                  { label: "Projects Done", value: "15+" },
+                  { label: "Years Exp.", value: "1+" },
+                  { label: "Projects Done", value: "5+" },
                   { label: "Clients Served", value: "500+" },
                 ].map((stat) => (
                   <div key={stat.label} style={{ textAlign: "left" }}>
