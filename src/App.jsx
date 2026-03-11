@@ -477,7 +477,7 @@ export default function Portfolio() {
                 className="font-syne fade-slide-up"
                 style={{ fontSize: "clamp(18px, 2.5vw, 26px)", color: "rgba(226,232,240,0.6)", marginBottom: "24px", animationDelay: "0.2s" }}
               >
-                <TypeWriter texts={["Assistant Engineer", "Networking Specialist", "Telecom Professional", "Linux Enthusiast"]} />
+                <TypeWriter texts={["Assistant Engineer", "Networking Specialist", "DevOps Enthusiast", "Linux Enthusiast"]} />
               </div>
               <p
                 className="fade-slide-up"
@@ -556,8 +556,8 @@ export default function Portfolio() {
                 </div>
                 {/* Status dots */}
                 {[
-                  { label: "GPON", top: "10%", right: "-10%", color: "#00ff88" },
-                  { label: "MikroTik", bottom: "15%", left: "-12%", color: "#00d4ff" },
+                  { label: "Git", top: "10%", right: "-10%", color: "#00ff88" },
+                  { label: "Network", bottom: "15%", left: "-12%", color: "#00d4ff" },
                   { label: "Linux", top: "40%", right: "-15%", color: "#a78bfa" },
                 ].map((dot) => (
                   <div
