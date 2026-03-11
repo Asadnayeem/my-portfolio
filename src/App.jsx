@@ -238,13 +238,11 @@ const skills = [
   { name: "Networking", icon: "🌐", level: 90 },
   { name: "IP Subnetting", icon: "📡", level: 88 },
   { name: "Routing", icon: "🔀", level: 85 },
-  { name: "GPON", icon: "💡", level: 87 },
-  { name: "EPON", icon: "🔗", level: 85 },
   { name: "OLT Configuration", icon: "⚙️", level: 88 },
   { name: "MikroTik", icon: "🛡️", level: 86 },
-  { name: "Linux (Ubuntu)", icon: "🐧", level: 75 },
-  { name: "RADIUS Troubleshooting", icon: "🔧", level: 82 },
-  { name: "Network Monitoring", icon: "📊", level: 89 },
+  { name: "Linux", icon: "🐧", level: 30 },
+  { name: "Docker", icon: "🐳", level: 25 },
+  { name: "Cacti", icon: "📊", level: 20 },
 ];
 
 const projects = [
@@ -258,7 +256,7 @@ const projects = [
   {
     title: "OLT & ONU Configuration",
     description: "Configured and managed GPON/EPON Optical Line Terminals and Optical Network Units for last-mile fiber connectivity, provisioning hundreds of subscribers.",
-    tags: ["GPON", "EPON", "OLT", "Fiber Optics"],
+    tags: ["GPON", "EPON", "OLT", ],
     icon: "💡",
     color: "#00ff88",
   },
