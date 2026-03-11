@@ -373,7 +373,7 @@ export default function Portfolio() {
         <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "0 24px", display: "flex", alignItems: "center", justifyContent: "space-between" }}>
           <div className="font-syne" style={{ fontSize: "20px", fontWeight: "800", letterSpacing: "-0.5px" }}>
             <span style={{ color: "#00d4ff" }}>&lt;</span>
-            <span style={{ color: "#e2e8f0" }}>AMA</span>
+            <span style={{ color: "#e2e8f0" }}>Portfolio</span>
             <span style={{ color: "#00d4ff" }}>/&gt;</span>
           </div>
 
