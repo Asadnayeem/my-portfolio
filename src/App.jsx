@@ -459,7 +459,7 @@ export default function Portfolio() {
                 className="font-mono-custom fade-slide-up"
                 style={{ color: "#00ff88", fontSize: "13px", marginBottom: "16px", letterSpacing: "2px" }}
               >
-                &gt; Hello, World! I'm
+                &gt; Hello, I'm
               </div>
               <h1
                 className="font-syne fade-slide-up"
