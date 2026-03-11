@@ -948,25 +948,32 @@ export default function Portfolio() {
             {[
               {
                 label: "Email",
-                value: "ali.asad@email.com",
+                value: "asadnayeem0@gmail.com",
                 icon: "✉️",
-                href: "mailto:ali.asad@email.com",
+                href: "mailto:asadnayeem0@gmail.com",
                 color: "#00d4ff"
               },
               {
                 label: "Phone",
-                value: "+880 1X XX XXX XXX",
+                value: "+880 17 99 566 515",
                 icon: "📞",
                 href: "tel:+880",
                 color: "#00ff88"
               },
               {
                 label: "LinkedIn",
-                value: "linkedin.com/in/aliasad",
+                value: "https://www.linkedin.com/in/ali-mohammad-asad-3893bb195/",
                 icon: "💼",
-                href: "https://linkedin.com",
+                href: "https://www.linkedin.com/in/ali-mohammad-asad-3893bb195/",
                 color: "#a78bfa"
               },
+              {
+                label: "GitHub",
+                value: "https://github.com/Asadnayeem",
+                icon: "🐙",
+                href: "https://github.com/Asadnayeem",
+                color: "#a78bfa"
+              }
             ].map((contact) => (
               <a
                 key={contact.label}
