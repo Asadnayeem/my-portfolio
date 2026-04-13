@@ -470,7 +470,7 @@ export default function Portfolio() {
                   animationDelay: "0.1s"
                 }}
               >
-                Ali Mohammad<br />
+                fhammad<br />
                 <span style={{ color: "#00d4ff" }}>Asad</span>
               </h1>
               <div
@@ -866,7 +866,7 @@ export default function Portfolio() {
                   <h3 className="font-syne" style={{ fontSize: "20px", fontWeight: "700", color: "#e2e8f0", marginBottom: "4px" }}>
                     BSc in Electronic & Telecommunication Engineering
                   </h3>
-                  <div style={{ color: "#a78bfa", fontSize: "14px", fontFamily: "'Space Mono', monospace" }}>University — ETE Department</div>
+                  <div style={{ color: "#a78bfa", fontSize: "14px", fontFamily: "'Space Mono', monospace" }}>International Islamic University Chittagong</div>
                 </div>
                 <span className="tag" style={{ padding: "4px 12px", borderRadius: "4px", borderColor: "rgba(167,139,250,0.3)", color: "#a78bfa" }}>Education</span>
               </div>
