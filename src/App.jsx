@@ -1013,7 +1013,7 @@ export default function Portfolio() {
         background: "#040810"
       }}>
         <div className="font-mono-custom" style={{ fontSize: "12px", color: "rgba(226,232,240,0.2)" }}>
-          © 2024 <span style={{ color: "#00d4ff" }}>Ali Mohammad Asad</span> · Built with React · All rights reserved
+          © 2024 <span style={{ color: "#00d4ff" }}>Mohammad Asad</span> · Built with React · All rights reserved
         </div>
       </footer>
     </div>
