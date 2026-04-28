@@ -470,7 +470,7 @@ export default function Portfolio() {
                   animationDelay: "0.1s"
                 }}
               >
-                fhammad<br />
+                Ali Mohammad<br />
                 <span style={{ color: "#00d4ff" }}>Asad</span>
               </h1>
               <div
